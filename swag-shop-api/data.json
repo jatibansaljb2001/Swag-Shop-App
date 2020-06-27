@@ -1,0 +1,17 @@
+{
+    "db.products.insert": {
+        "price": 40.99,
+        "title": "Vault Boy Bobble Head",
+        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51jvyr6iAGL._SY355_.jpg"
+    },
+    "db.products.insert1": {
+        "price": 129.99,
+        "title": "Link's Sheild",
+        "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51bype6NuIL._AC_SY400_.jpg"
+    },
+    "db.products.insert2": {
+        "price": 4000.99,
+        "title": "Lancer",
+        "imgUrl": "https://m.media-amazon.com/images/I/71DH18Ns3qL._UY560_.jpg"
+    }
+}
